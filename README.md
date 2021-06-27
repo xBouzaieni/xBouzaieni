@@ -37,7 +37,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. <br>
 
 [1.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://toppng.com/uploads/preview/linkedin-color-icon-linkedin-logo-round-11562920732qctvxkrdcd.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
