@@ -1,6 +1,7 @@
 <!-- [![Header](https://raw.githubusercontent.com/SamirBz/SamirBz/master/readme_header.png "Header")](linkhere) -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/SamirBz/SamirBz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 My name is Samir Bouzaieni and I'm a computer engineering student. I'm from Tunisia. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
