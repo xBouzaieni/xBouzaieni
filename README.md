@@ -3,18 +3,27 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-My name is Samir Bouzaieni and I'm a computer engineering student. I'm from Tunisia. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm 20, I live in a small village and study computer engineering 📚 in Mahdia (Tunisia).
+I can be described as anxious, sometimes a bit lost but most of the time ambitious IT and electronics enthusiast ♐.
+I can speak Arabic (native) 🇹🇳, English (Intermediate) 🇬🇧, French (Intermediate) 🇫🇷 and a bit of German (Biginner) 🇩🇪.
+I really like working with Python 🐍. I also like playing around with C 🏗️.
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/SamirBz/SamirBz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirBz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/SamirBz/SamirBz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirBz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirBz&theme=radical" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirBz&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- links to social media icons -->
