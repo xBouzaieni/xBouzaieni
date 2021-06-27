@@ -5,7 +5,7 @@
 
 I'm 20, I live in a small village and study computer engineering 📚 in Mahdia (Tunisia).
 I can be described as anxious, sometimes a bit lost but most of the time ambitious IT and electronics enthusiast ♐.
-I can speak Arabic (native) 🇹🇳, English (Intermediate) 🇬🇧, French (Intermediate) 🇫🇷 and a bit of German (Biginner) 🇩🇪.
+I can speak Arabic (native) 🇹🇳, English (expert) 🇬🇧, French (expert) 🇫🇷 and a bit of German (beginner) 🇩🇪.
 I really like working with Python 🐍. I also like playing around with C 🏗️.
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
@@ -45,12 +45,3 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 [1]: https://facebook.com/salleeta
 [2]: https://github.com/SamirBz
 [3]: https://www.linkedin.com/in/SamirBz
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
