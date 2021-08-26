@@ -6,7 +6,7 @@
 I'm 20, I live in a small town and study computer engineering 📚 in Mahdia (Tunisia). <br>
 I can be described as anxious, sometimes a bit lost but most of the time ambitious IT and electronics enthusiast ♐. <br>
 I can speak Arabic (native) 🇹🇳, English (expert) 🇬🇧, French (expert) 🇫🇷 and a bit of German (beginner) 🇩🇪. <br>
-I really like working with Python 🐍. I also like playing around with C, HTML, CSS and JavaScript 🏗️. <br>
+I really like working with Python 🐍. I also like playing around with C 🏗️. <br>
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. <br>
 
 
