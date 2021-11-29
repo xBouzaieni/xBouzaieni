@@ -1,6 +1,6 @@
 <!-- [![Header](https://raw.githubusercontent.com/SamirBz/SamirBz/master/readme_header.png "Header")](linkhere) -->
 
-# Hey you  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 I'm 20, I live in a small town and study computer engineering 📚 in Mahdia (Tunisia). <br>
