@@ -16,10 +16,10 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. <br>
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirBz&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xBouzaieni&theme=radical" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirBz&show_icons=true&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=xBouzaieni&show_icons=true&theme=radical" />
     </td>
   </tr>
 </table>
